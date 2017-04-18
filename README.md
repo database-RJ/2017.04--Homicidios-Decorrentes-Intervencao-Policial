@@ -6,7 +6,9 @@
 #### [blablabla?]
 
 periodo: jan 2013 - fev 2017
+
 total: 2575
+
 homicidios / dia: 1.763699
 
 
