@@ -13,7 +13,7 @@ blalabla
 
 
 
-![alt text](plots/hdip.png)
+![alt text](plots_raw/hdip.png)
 
 
 
