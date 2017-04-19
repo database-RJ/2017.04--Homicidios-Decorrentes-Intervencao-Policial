@@ -7,10 +7,8 @@
 
 periodo: jan 2013 - fev 2017
 
-total: 2575
-
-homicidios / dia: 1.763699
-
+total Estado: 2575
+Total Cidade: 1247
 
 blalabla
 
@@ -18,7 +16,8 @@ blalabla
 
 
 
-![alt text](plots_raw/hidp.png)
+![alt text](plots_raw/hdip.png)
+![alt text](plots_raw/hdip_rio.png)
 
 
 
