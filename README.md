@@ -17,8 +17,11 @@ Total Cidade: 1247
 
 ###### Série Temporal dos Homicidios Decorrentes de Intervencao Policial
 
-![alt text](plots_raw/hdip_rio_bar.png)
+cidade
 ![alt text](plots_raw/hdip_rio.png)
+![alt text](plots_raw/hdip_rio_bar.png)
+
+estado
 ![alt text](plots_raw/hdip.png)
 
 
